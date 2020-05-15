@@ -5,7 +5,8 @@ import './App.css';
 //import { List } from './HOC/List';
 //import List from './RenderProps/List';
 //import List from './ClassContextApi/List';
-import List from './FunctionalContextApi/List';
+//import List from './FunctionalContextApi/List';
+import List from './CompoundComponent/List';
 
 function App() {
   return (
